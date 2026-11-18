@@ -6,7 +6,6 @@ I am a dedicated developer specializing in modern web technologies, with a focus
 🛠️ **Currently working on:** [Monster Quest](https://github.com/Elena-Tafelski/monster-quest) – A gamified Fullstack task manager (Java/Spring Boot/React/Docker).  
 🎓 **Education:** Informatikmittelschule (IMS) Baden, Software Developer EFZ & Vocational Baccalaureate.  
 💼 **Professional Experience:** 1-year internship in Frontend Development at Batix Schweiz AG (focus on Vue.js & UX/UI).  
-🚀 **Service:** Available for freelance projects, contract work, or Fullstack positions in Switzerland.
 
 ---
 
